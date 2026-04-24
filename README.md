@@ -119,7 +119,7 @@ print(labels[prediction[0]])
 * Matplotlib
 * Seaborn
 
----
+<!-- ---
 
 ## How to Run
 
@@ -139,7 +139,7 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-```
+``` -->
 
 ---
 
