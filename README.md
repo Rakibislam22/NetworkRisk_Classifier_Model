@@ -171,7 +171,7 @@ python main.py
 
 ## Conclusion
 
-This project demonstrates how machine learning can be used to detect network threats efficiently using simple yet powerful algorithms like Naive Bayes..
+This project demonstrates how machine learning can be used to detect network threats efficiently using simple yet powerful algorithms like Naive Bayes.
 
 ---
 
